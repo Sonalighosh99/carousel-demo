@@ -1,0 +1,58 @@
+
+.flexbox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.arrow{
+    color: grey;
+}
+.green{
+     background-color: green;
+     width: 400px;
+     padding: 20px;
+     color: floralwhite;
+     text-align: center;
+     font-weight: bold;
+     margin-left: 20px;
+     margin-right: 20px;
+     height: 150px;
+}
+.orange{
+     background-color: orange;
+     width: 400px;
+     padding: 20px;
+     color: floralwhite;
+     text-align: center;
+     font-weight: bold;
+     margin-left: 20px;
+     margin-right: 20px;
+     height: 150px;
+}
+.header{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+.pink{
+     background-color:palevioletred;
+     width: 400px;
+     padding: 20px;
+     color: floralwhite;
+     text-align: center;
+     font-weight: bold;
+     margin-left: 20px;
+     margin-right: 20px;
+     height: 150px;
+}
+.blue{
+    background-color:blue;
+     width: 400px;
+     padding: 20px;
+     color: floralwhite;
+     text-align: center;
+     font-weight: bold;
+     margin-left: 20px;
+     margin-right: 20px;
+     height: 150px;
+}
